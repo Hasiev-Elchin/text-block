@@ -50,8 +50,8 @@ q:after {
 
 .btn {
 	display: block;
-	width: 250px;
-	padding: 20px 0;
+	max-width: 250px;
+	padding: 15px 0;
 	border: 1px solid #eaa258;
 
 	text-align: center;
